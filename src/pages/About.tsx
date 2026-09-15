@@ -100,7 +100,8 @@ export default function About() {
               <Github className="w-5 h-5" /> GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/ahamed-nawaz-4b1a70275?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+              href=
+              "https://www.linkedin.com/in/ahamed-nawaz-4b1a70275?utm_source=share_via&utm_content=profile&utm_medium=member_android"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-5 py-3 rounded-xl bg-gradient-to-r from-blue-600 to-blue-500 text-white font-semibold hover:shadow-lg hover:-translate-y-0.5 transition-all"
