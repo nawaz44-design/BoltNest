@@ -23,7 +23,7 @@ export default function Footer() {
               <a href="https://github.com/nawaz44-design" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-lg bg-white/5 hover:bg-white/10 flex items-center justify-center transition-all" title="GitHub">
                 <Github className="w-4 h-4" />
               </a>
-              <a href="https://www.linkedin.com/in/ahamed-nawaz-9950a43aa/" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-lg bg-white/5 hover:bg-white/10 flex items-center justify-center transition-all" title="LinkedIn">
+              <a href="https://www.linkedin.com/in/ahamed-nawaz-4b1a70275?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer" className="w-9 h-9 rounded-lg bg-white/5 hover:bg-white/10 flex items-center justify-center transition-all" title="LinkedIn">
                 <Linkedin className="w-4 h-4" />
               </a>
             </div>
